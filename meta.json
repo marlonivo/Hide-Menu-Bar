@@ -1,0 +1,1 @@
+{"mod": 1708569241, "conflicts": ["hide_menu_bar"], "homepage": "https://github.com/abdnh/anki-addon-template", "name": "Hide Menu Bar", "min_point_version": 22, "max_point_version": 231201, "branch_index": 0, "disabled": false, "config": {"main": {"hide_menu_bar": true}, "ui": {"hide_menu_bar_shortcut": "Ctrl+Alt+T"}}}

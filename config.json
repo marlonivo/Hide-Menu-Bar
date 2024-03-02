@@ -1,0 +1,8 @@
+{
+    "main": {
+        "hide_menu_bar": true
+    },
+    "ui": {
+        "hide_menu_bar_shortcut": "Ctrl+Alt+T"
+    }
+}
